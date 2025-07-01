@@ -10,3 +10,4 @@ wheels/
 .venv
 user-data-dir=
 *.json
+*.pdf
